@@ -2,6 +2,8 @@
 
 A modern React ticket management app with authentication, dashboard, and ticket creation. Built with Vite, TypeScript, React Router, Redux Toolkit, TanStack Query, and Tailwind CSS.
 
+**Backend:** [ticket-backend](https://github.com/dsdsharma/ticket-backend) — Node/Express API with MongoDB and JWT auth.
+
 ## Features
 
 - **Authentication** — Login with email/password; protected routes
